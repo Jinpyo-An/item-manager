@@ -1,11 +1,9 @@
-# 🔌 Item Manager (가전제품 수명 관리 서비스)
+# 🔌 Item Manager (가전제품 관리 서비스)
 
 > **"가전제품의 올바르게 사용하여 지구를 지키는 똑똑한 관리 습관"**
 > 올바른 사용법과 교체 시기를 안내하여 전자 폐기물을 줄이는 가전제품 관리 애플리케이션
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.4.29-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-10.3.9-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-5.14.0-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
 
 ## 💡 기획 의도 (Background)
 
